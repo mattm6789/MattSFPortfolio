@@ -1,0 +1,16 @@
+h1 {
+    font-size: large;
+    background-color: blueviolet;
+    
+
+}
+
+h1:hover{
+
+
+    background-color:chocolate;
+}
+.somecolor{
+    background-color: brown;
+
+}

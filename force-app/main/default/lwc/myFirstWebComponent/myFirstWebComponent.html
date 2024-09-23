@@ -1,0 +1,15 @@
+<template>
+    <lightning-card title="ContactInformation" icon-name="custom:custom14">
+        <h1 class="somecolor">Test Css</h1> 
+        
+        <h1>No Class</h1>
+        </span>
+        <div class="slds-var-m-around_medium">
+            <template for:each={contacts} for:item="contact">
+                <div key={contact.Id} >
+                    {contact.Name}, {contact.Title}                
+                </div>
+            </template>
+        </div>
+    </lightning-card>
+</template>
