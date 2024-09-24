@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../LWC Recipes with Manifest"
 		}
 	],
 	"settings": {}
