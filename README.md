@@ -20,3 +20,9 @@ The `sfdx-project.json` file contains useful configuration information for your 
 1) This is a FirstBranch Commit, Push, Merge and Delete practice change.
 2) Second Change. I'm making progress
 3) Third Change working on deleting Branches Locally and on GitHub
+4) Fourth Branch Make change, Commit, Push from VSCode, In Git Pull to Merge Status, Merge, 
+        * in VScode 
+            >git branch -a
+            >git branch -d FourthBranch  (this should remove the local)
+            >git push origin --delete FourthBranch
+            >git fetch --prune FourthBranch (if necessary)
