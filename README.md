@@ -25,4 +25,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
             >git branch -a
             >git branch -d FourthBranch  (this should remove the local)
             >git push origin --delete FourthBranch
-            >git fetch --prune FourthBranch (if necessary)
+5) Fifth branch. Going to use the VScode commands for the managing and deleting of branchs
