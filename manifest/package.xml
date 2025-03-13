@@ -2,7 +2,7 @@
 <Package xmlns="https://soap.sforce.com/2006/04/metadata">
     <types>
         <members>*</members>
-        <name>ExpercienceBundle</name>
+        <name>ExperienceBundle</name>
     <types>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
